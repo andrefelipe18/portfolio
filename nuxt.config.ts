@@ -20,9 +20,9 @@ export default defineNuxtConfig({
   },
 
   site: {
-    url: 'https://andredomingues-fatec.vercel.app/',
-    name: 'André Domingues - Portfolio Fatec',
-    description: 'Portfólio de André Domingues, aluno da Fatec Lins.',
+    url: 'https://andredomingues.online',
+    name: 'André Domingues - Portfolio',
+    description: 'Portfólio de André Domingues',
     defaultLocale: 'pt-BR',
   }
 })

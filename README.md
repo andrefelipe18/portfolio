@@ -1,11 +1,11 @@
-# Portfólio Fatec Lins
+# Portfólio
 
-Esse repositório tem como objetivo armazenar meu trabalho de graduação do curso de Sistemas para Internet da Faculdade de Tecnologia do Estado de São Paulo (FATEC) - Lins.
+Esse repositório tem como objetivo armazenar meu portfólio digital.
 
 ## Sobre o projeto
 
-O projeto consiste em um portfólio digital, onde o usuário pode visualizar informações sobre mim, meus projetos desenvolvidos durante o curso e habilidades.
-Link do projeto: [Portfólio Fatec Lins](https://andredomingues-fatec.vercel.app/)
+O projeto consiste em um portfólio digital, onde o usuário pode visualizar informações sobre mim e minhas habilidades.
+Link do projeto: [Portfólio](https://andredomingues.online/)
 
 ## Tecnologias utilizadas
 
@@ -16,10 +16,10 @@ Link do projeto: [Portfólio Fatec Lins](https://andredomingues-fatec.vercel.app
 
 ```bash
 # Clone o repositório
-git clone https://github.com/andrefelipe18/portfolio-fatec.git portfolio-fatec
+git clone https://github.com/andrefelipe18/portfolio.git portfolio
 
 # Acesse a pasta do projeto
-cd portfolio-fatec
+cd portfolio
 
 # Instale as dependências
 bun install

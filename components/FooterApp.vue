@@ -4,7 +4,6 @@ const year = new Date().getFullYear();
 <template>
 	<footer class="p-4 mt-auto footer footer-center text-base-content">
 		<aside>
-			<LogoFatec />
 			<p class="flex items-center gap-2 mt-4">
 				Copyright &copy; {{ year }} - All right reserved by André Domingues
 				<span>
