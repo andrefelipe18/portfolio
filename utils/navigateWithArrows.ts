@@ -1,7 +1,7 @@
 import type { Router } from "vue-router";
 
 export function navigateWithArrows(event: KeyboardEvent, router: Router) {
-  const routes = ["/", "/contact", "/resume"];
+  const routes = ["/", "/contact"];
   const currentIndex = routes.indexOf(router.currentRoute.value.path);
 
   if (event.key === "ArrowRight") {

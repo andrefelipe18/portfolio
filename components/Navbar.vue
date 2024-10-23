@@ -8,8 +8,6 @@ defineProps<{
 		<ul class="flex flex-wrap items-center justify-center gap-x-6 sm:gap-x-12">
 			<NavItem to="/" text="Sobre" :path="path" />
 			<NavItem to="/contact" text="Contato" :path="path" />
-			<NavItem to="/resume" text="Currículo" :path="path" />
-			<ResumeDownloadButton v-if="path === '/resume'" />
 		</ul>
 	</nav>
 </template>
