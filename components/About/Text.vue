@@ -4,13 +4,13 @@
 <template>
 	<section id="about-me" class="flex flex-col items-center mx-auto mt-6">
 		<p class="text-base text-justify">
-			Minha vida é uma jornada de paixão pela tecnologia e inovação. Me chamo André Domingues e
-			cresci no interior de São Paulo, em uma cidadezinha com cerca de 5 mil habitantes. Desde cedo,
-			aos 14 anos,
-			descobri minha afinidade com o design, mas foi <span class="underline decoration-primary">aos 17
-				que conheci o
-				mundo do desenvolvimento web e atualmente
-				sou desenvolvedor FullStack</span>.
+			Desenvolvedor FullStack especializado em Laravel, Vue e Livewire, com experiência em testes automatizados e adepto
+			da filosofia TDD. Contribuo para projetos open source e sou membro ativo de comunidades relacionadas à minha
+			stack. Além disso, produzo conteúdo sobre essas tecnologias, compartilhando conhecimentos e boas práticas.
+			<br>
+			Minhas práticas são voltadas para garantir alta performance e escalabilidade ao seu projeto, com foco em
+			otimização de recursos e implementação das melhores estratégias de SEO. Meu objetivo é entregar soluções
+			eficientes que aprimoram a experiência do usuário.
 		</p>
-</section>
+	</section>
 </template>
